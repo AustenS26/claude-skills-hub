@@ -1,6 +1,6 @@
-# Claude Skills Hub
+# Agent Skills Hub
 
-> 个人精选 Claude Code Skill 库。基于实际工作场景（BNPL 产品经理 / 内容创作 / 数据分析）评估优先级，记录每个 skill 的能力边界和最佳使用时机。
+> 个人精选技能库。基于实际工作场景（BNPL 产品经理 / 内容创作 / 数据分析）评估优先级，记录每个 skill 的能力边界和最佳使用时机。
 
 ---
 
@@ -34,7 +34,7 @@
 
 **核心能力**：
 - 75 个模板，覆盖 9 种输出类型（magazine / deck / poster / 小红书 / 数据报告等）
-- 兼容 Claude Code / Cursor / Codex / Gemini CLI，不需要额外 API key
+- 兼容主流 agent runtime，不需要额外 API key
 - CJK 字体优化 + 8px 网格 + ≥4.5 对比度设计约束
 - SSE 流式预览，改完即看
 
@@ -108,7 +108,7 @@ npx skills add op7418/guizang-ppt-skill
 ---
 
 ### 4. content-research-writer
-**→ [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)**
+**→ [ComposioHQ/awesome-skills](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)**
 
 **一句话**：调研 → 提纲 → 逐节写作 → 引用整理，保留你的写作风格。
 
@@ -120,7 +120,7 @@ npx skills add op7418/guizang-ppt-skill
 3. 逐节撰写，获取反馈（优点 / 改进 / 具体示例）
 4. 整合引用和数据来源
 
-**安装**：在 awesome-claude-skills 里单独取用，或直接引用该目录下的 SKILL.md。
+**安装**：在对应目录里单独取用，或直接引用该目录下的 SKILL.md。
 
 ---
 
@@ -223,7 +223,7 @@ npx skills add jimliu/baoyu-skills --skill baoyu-infographic
 
 # 第二批：高频有用
 npx skills add op7418/guizang-ppt-skill
-# content-research-writer: 手动复制 SKILL.md 到 ~/.claude/skills/
+# content-research-writer: 手动复制 SKILL.md 到 ~/.agents/skills/
 
 # 按需安装
 npx skills add op7418/guizang-social-card-skill
@@ -236,8 +236,8 @@ npx skills add op7418/Humanizer-zh
 ## 关联资料
 
 - [GitHub Stars 列表](https://github.com/AustenS26?tab=stars) — 已 star 的所有 skill repo
-- [Awesome Claude Skills](https://github.com/travisvn/awesome-claude-skills) — 社区精选列表
-- [Anthropic 官方 Skills](https://github.com/anthropics/skills) — 官方维护的 skill 集合
+- [Awesome Skills 列表](https://github.com/travisvn/awesome-claude-skills) — 社区精选列表
+- [官方 Skills 集合](https://github.com/anthropics/skills) — 官方维护的 skill 集合
 
 ---
 
