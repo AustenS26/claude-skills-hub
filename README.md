@@ -235,7 +235,7 @@ npx skills add op7418/Humanizer-zh
 
 ## 关联资料
 
-- [GitHub Stars 列表](https://github.com/AustenS26?tab=stars) — 已 star 的所有 skill repo
+- GitHub Stars 列表 — 可在自己的 GitHub 账号 `Stars` 页面查看已收藏的 skill repo
 - [Awesome Skills 列表](https://github.com/travisvn/awesome-claude-skills) — 社区精选列表
 - [官方 Skills 集合](https://github.com/anthropics/skills) — 官方维护的 skill 集合
 
